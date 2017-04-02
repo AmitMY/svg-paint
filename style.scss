@@ -1,0 +1,13 @@
+.svg-editor {
+    svg {
+        border: 1px solid black;
+    }
+
+    button.selected {
+        border-style: inset;
+    }
+
+    .menu {
+        background-color: grey;
+    }
+}

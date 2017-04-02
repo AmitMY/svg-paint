@@ -1,0 +1,19 @@
+{
+    "name": "svg-paint",
+    "version": "0.0.1",
+    "description": "svg paint in js",
+    "main": "SVGEditor.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AmitMY/svg-paint.git"
+    },
+    "author": "AmitMY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/AmitMY/svg-paint/issues"
+    },
+    "homepage": "https://github.com/AmitMY/svg-paint#readme"
+}
