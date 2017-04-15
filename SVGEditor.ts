@@ -212,7 +212,7 @@ class SVGEditor {
             this.originalMousePosition.y != this.currentMousePosition.y) {
             this.objects.push(this.createdObject);
             this.focus(this.createdObject);
-        } else {
+        } else if (this.menuSettings.shape !== "path") {
             this.svg.removeChild(this.createdObject);
         }
 
